@@ -5,6 +5,12 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    margin: 60px 0;
+}
+hr{
+    width: 75%;
+}
 /* nav bar styles */
 .nav-bar{
     display: flex;
@@ -69,4 +75,18 @@ body{
     margin-left: 50px;
     background-color: #F7F0FF;
     border-radius: 50%;
+}
+
+/* shopping styles */
+.shopping-cart{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    margin: 0 13%;
+}
+.shopping-cart li{
+    list-style: none;
+    padding: 25px 0;
+}
+.logo img{
+    padding-top: 10px;
 }
