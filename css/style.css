@@ -204,3 +204,31 @@ hr{
 .fa-solid{
     padding-left: 10px;
 }
+/* footer styles */
+footer{
+    background-color: #0A0826;
+    color: whitesmoke;
+    padding:  3% 0;
+    margin-top: 4%;
+}
+.footer-info{
+    text-align: center;
+    font-size: 700;
+}
+.footer-info h2{
+    margin-bottom: 0px;
+}
+.footer-info p{
+    margin-top: -8px;
+    margin-bottom: 8px;
+}
+.icon a{
+    padding: 0px 12px;
+    font-size: 25px;
+}
+.fa-solid{
+    padding-left: 0;
+}
+.icon a i{
+    color: whitesmoke;
+}
