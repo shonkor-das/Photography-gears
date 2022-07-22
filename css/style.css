@@ -151,3 +151,56 @@ hr{
     font-size: 15px;
     color: #696868;
 }
+.see-more{
+    margin-left: 80%;
+    color: #E02C6D;
+    font-weight: 700;
+    font-size: 15px;
+}
+.see-more i{
+    padding-left: 5px;
+}
+/* feature-products styles */
+.features{
+    display: flex;
+    width: 90%;
+    margin: 0 6%;
+    margin-top: 5%;
+}
+.features-profile{
+    width: 50%;
+}
+.features-profile img{
+    width: 70%;
+    height: 90%;
+    margin-left: 12%;
+}
+.frstures-details{
+    width: 50%;
+}
+.feature-info{
+    width: 85%;
+    height: 85%;
+    margin-top: 7%;
+    margin-left: -5%;
+}
+.feature-info h2{
+    font-size: 2em;
+    margin: 0px;
+}
+.feature-info p{
+    font-size: 14px;
+    font-weight: 700;
+    color: #696868;
+}
+.btn{
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #E02C6D;
+    color: white;
+    border: none;
+}
+.fa-solid{
+    padding-left: 10px;
+}
